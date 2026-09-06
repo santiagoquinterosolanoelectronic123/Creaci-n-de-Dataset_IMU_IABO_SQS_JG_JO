@@ -1,4 +1,4 @@
-Tarea 1 - Corte 2° - Creación de Dataset: Para identificar gestos 
+## Tarea 1 - Corte 2° - Creación de Dataset: Para identificar gestos 
 
 **Asignatura:** IABO - Inteligencia Artificial de Borde  
 **Institución:** Escuela Colombiana de Ingeniería Julio Garavito  
